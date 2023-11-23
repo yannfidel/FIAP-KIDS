@@ -51,10 +51,15 @@ footer{
     margin-left: 75px;
     margin-top: 50px;
     width: 250px;
+    color: white;
 }
 
 .CB{
     width:250px;
+    background-color:rgb(1, 24, 37);
+    border: black 10px;
+    color: white;
+    
 }
 
 .TF{
