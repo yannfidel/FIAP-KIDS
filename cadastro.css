@@ -22,41 +22,6 @@ footer{
     flex-direction: column;
 }
 
-.CR{
-    width: 900px;
-    height: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 100px;
-}
-
-.cima{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.baixo{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-bottom: 100px;
-}
-
-.col{
-    display: flex;
-    justify-content: space-between;
-    margin-right: 75px;
-    margin-left: 75px;
-    margin-top: 50px;
-    width: 250px;
-}
-
-.CB{
-    width:250px;
-}
-
 .TF{
     display: flex;
     flex-direction: row;
@@ -113,19 +78,4 @@ footer a{
 .MF{
     display: flex;
     flex-direction: row;
-}
-
-.img1{
-    background: url(criancas-sorridentes-de-tiro-medio-posando-juntas_23-2149073581.avif);
-    background-size: cover;
-}
-
-.img2{
-    background: url(garoto-de-vista-frontal-se-divertindo-no-parque-de-aventura_23-2150753184.jpg);
-    background-size: cover;
-}
-
-.img3{
-    background: url(criancas-que-jogam-na-grama_1098-504.jpg);
-    background-size: cover;
 }
